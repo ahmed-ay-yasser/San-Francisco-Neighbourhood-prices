@@ -1,1 +1,2 @@
-# San-Francisco-Neighbourhood-prices
+# San-Francisco-Neighbourhood-Prices-Analysis
+In this project, we used to explore a dataset of the neighborhood prices for San Francisco. The project goes through several phases such as: Getting some preview of the data and how it looks like and what information does it contain. Then, we got some summary statistics only on the data relevant to our analyses. Moreover, we checked for missing or duplicated data that may affect our manipulation. Furthermore, we answered some business questions related to our data to help get insights and make better decisions in the future. Finally, we made use of python's powerful visualization library "Matplotlib" in order to show relationships, distributions, and comparisons.
